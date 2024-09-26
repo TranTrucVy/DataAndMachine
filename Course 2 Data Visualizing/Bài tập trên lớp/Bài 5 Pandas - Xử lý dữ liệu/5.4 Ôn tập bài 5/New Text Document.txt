@@ -1,0 +1,14 @@
+Trong bài 5, chúng ta được học về các thao tác trên Pandas như:
+- Đọc ghi dữ liệu (Data Ingestion)
+- Làm sạch, tinh chỉnh dữ liệu (Data Cleaning)
+- Trực quan hóa dữ liệu (Data Visualization)
+- Thống kê dữ liệu (Descriptive Statistics)
+- Phương thức thao tác trên dữ liệu (Frequent Data Operations)
+- Gộp dữ liệu (Merging Dataframe)
+- Phương thức thao tác trên String (Frequent Data Operations)
+- Đổi thời gian (Parsing Timestamps)
+
+Để ôn bài, chúng ta cùng làm bài tập trắc nghiệm sau.
+
+
+https://docs.google.com/forms/d/e/1FAIpQLScWu_-8QPGL5YdG5_wmOK0iRgPObEYBJ2sFhvx439xwLDW91g/viewform

@@ -1,0 +1,9 @@
+Trong bài 4, chúng ta được học các kiến thức tổng quan về Pandas như:
+- Lý do sử dụng Pandas
+- Phương thức tạo và thao tác trên Series
+- Phương thức tạo và thao tác trênDataframe
+- Phương thức tạo và thao tác trênPanel
+
+Để ôn bài, chúng ta cùng làm bài tập trắc nghiệm sau.
+
+https://docs.google.com/forms/d/e/1FAIpQLSeVEOH_CwUu-XrrR7DuOiyNNi8cWJBjSEDKKC8b14-y9gifeg/viewform

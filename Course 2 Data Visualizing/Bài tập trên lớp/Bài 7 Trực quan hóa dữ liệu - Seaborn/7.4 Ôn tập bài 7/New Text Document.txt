@@ -1,0 +1,19 @@
+Trong Bài 7, chúng ta được học các kiến thức về Trực quan hóa nâng cao với Seaborn như:
+- Vẽ biểu đồ với Seaborn
+- Seaborn style: color, color palettes, axes, anotation
+- Các loại biểu đồ:
+o Multiple plot, Stripplot, Swarmplot
+o Boxplot, Violinplot, Lvplot
+o Barplot, pointplot, countplot
+o Distplot, Distribution plot
+o Rug plot và kde shading
+o Regression plot, Residual plot
+o Bining data
+o Matrix plot
+o Heat map
+- Vẽ biểu đồ trên Data Aware Grids.
+
+Để ôn bài, chúng ta cùng làm bài tập trắc nghiệm sau nhé!
+
+
+https://docs.google.com/forms/d/e/1FAIpQLSfEivThTsG5aHE0yRgjHIIxiw3SQDKXRN96PsOvdaWNtkcVlA/viewform

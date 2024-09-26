@@ -1,0 +1,7 @@
+Trong bài 3, chúng ta đã học và tìm hiểu các kiến thức về NumPy như:
+- Lý do sử dụng Numpy
+- Ndarray: mảng một chiều, mảng hai chiều.
+- và các Thao tác trên Ndarray.
+
+Để ôn bài, chúng ta cùng làm bài tập trắc nghiệm sau.
+https://docs.google.com/forms/d/e/1FAIpQLSdOdWmEejy9K1Q4Vkiz-ggLwvXjzRE9wh6Vx9VICyEliYsDtA/viewform
